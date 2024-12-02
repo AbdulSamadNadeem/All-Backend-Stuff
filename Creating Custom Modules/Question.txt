@@ -1,0 +1,7 @@
+What Is A Module??
+
+A Module is  script which Contains some function and can be used in other scripts.
+there are 3 types of modules
+1)Pre-Defined Modules
+2)User-Defined Modules
+3)3rd Party Libraries

@@ -1,0 +1,16 @@
+{
+  "name": "serving-stattic-files",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Abdul Samad",
+  "license": "ISC",
+  "description": "Servving Static files With Express.JS",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}

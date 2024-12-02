@@ -1,0 +1,10 @@
+What Is A Event-Driven-Arcitecture??
+
+.) In the Event-Driven-Arcitectur there are Three Main Players:
+
+1)Event Emitter  ---> the Ones Who Emits Any Change Like Making A request To Server etc.
+2)Event Listener  ---> it is the one who listen to change made by the emitter and send it to Event Handler.
+3)Event Handler  ---> these are mainly callback functions which are trigger when the listener sends a request.
+
+In JavaScript Programming there a popular pattern known as Observer Patter which is build by Event Emitter And Listener
+the Emitters are known as Subject and the Listener are known as Object.It is designed to react rather than call.

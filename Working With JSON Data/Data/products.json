@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 1200,
+      "category": "Electronics",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "price": 150,
+      "category": "Electronics",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Coffee Mug",
+      "price": 10,
+      "category": "Home & Kitchen",
+      "inStock": false
+    },
+    {
+      "id": 4,
+      "name": "Office Chair",
+      "price": 200,
+      "category": "Furniture",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Running Shoes",
+      "price": 85,
+      "category": "Sports",
+      "inStock": true
+    }
+  ]
+  
